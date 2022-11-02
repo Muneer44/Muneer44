@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-  - [Python Keylogger](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Python Keylogger](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Muneer44/Keylogger/edit/main/README.md)
 
 <h2>🧪 Virtual Machine Labs:</h2>
 
