@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1>Hello, I'm Mohammed Muneer! <br/><a href="https://www.linkedin.com/in/Muneer44/">A Cybersecurity Aspirant</a></h1>
 
-<!--
-**Muneer44/Muneer44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📰 Certificatons:</h2>
 
-Here are some ideas to get you started:
+  - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Python Projects:</h2>
+
+  - [Python Keylogger](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>🧪 Virtual Machine Labs:</h2>
+
+- [Active Directory VM Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Muneer44 | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" />][linkedin]
+[<img align="left" alt="Muneer44 | Twitter" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg" />][twitter]
+[<img align="left" alt="Muneer44 | YouTube" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-square-color-icon.svg" />][youtube]
+[<img align="left" alt="Muneer44 | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" />][instagram]
+[<img align="left" alt="Muneer44 | Instagram" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" />][Gmail]
+
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/c/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/in/Muneer44
+[Gmail]: https://mail.google.com/mail/u/0/?fs=1&to=m.munr44@gmail.com&tf=cm
+
