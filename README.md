@@ -21,8 +21,7 @@
 [<img align="left" alt="Muneer44 | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" />][instagram]
 [<img align="left" alt="Muneer44 | Instagram" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" />][Gmail]
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
+[twitter]: https://twitter.com/muneer__44
 [instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/Muneer44
 [Gmail]: https://mail.google.com/mail/u/0/?fs=1&to=m.munr44@gmail.com&tf=cm
