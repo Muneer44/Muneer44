@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-  - [Python Keylogger](https://github.com/Muneer44/Keylogger)
+  - [Network-Manipulation-Suite](https://github.com/Muneer44/Network-Manipulation-Suite)
 
 <h2>🧪 Virtual Machine Labs:</h2>
 
