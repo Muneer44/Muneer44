@@ -1,16 +1,18 @@
 <h1>Hello, I'm Mohammed Muneer! <br/><a href="https://www.linkedin.com/in/Muneer44/">A Cybersecurity Aspirant</a></h1>
 
-<h2>📰 Certificatons:</h2>
-
-  - [CompTIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
-
 <h2>👨‍💻 Python Projects:</h2>
 
   - [Network-Manipulation-Suite](https://github.com/Muneer44/Network-Manipulation-Suite)
 
+
 <h2>🧪 Virtual Machine Labs:</h2>
 
-- [Active Directory VM Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Active Directory Home Lab](https://github.com/Muneer44/Active-Directory-Home-Lab)
+
+
+<h2>📰 Certificatons:</h2>
+
+  - [CompTIA Security+](https://www.credly.com/badges/ca39a87d-e254-40ac-8058-d2efea0ae7e9)
 
 
 <h2> 🤳 Connect with me:</h2>
