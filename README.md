@@ -19,7 +19,6 @@
 
 [<img align="left" alt="Muneer44 | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" />][linkedin]
 [<img align="left" alt="Muneer44 | Twitter" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg" />][twitter]
-[<img align="left" alt="Muneer44 | YouTube" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-square-color-icon.svg" />][youtube]
 [<img align="left" alt="Muneer44 | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" />][instagram]
 [<img align="left" alt="Muneer44 | Instagram" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" />][Gmail]
 
