@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-  - [Network Manipulation Suite](https://github.com/Muneer44/Network-Manipulation-Suite)
+  - [Remote System-Hijack](https://github.com/Muneer44/Remote-System-Hijack)
   - [Keylogger with email functionality](https://github.com/Muneer44/Python-Keylogger)
-
+  - [Network Manipulation Suite](https://github.com/Muneer44/Network-Manipulation-Suite)
+  
 
 <h2>🧪 Virtual Machine Labs:</h2>
 
