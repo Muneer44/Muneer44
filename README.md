@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
+  - [File Integrity Monitor [FIM]](https://github.com/Muneer44/File-Integrity-Monitor)
   - [Remote System-Hijack](https://github.com/Muneer44/Remote-System-Hijack)
   - [Keylogger with email functionality](https://github.com/Muneer44/Python-Keylogger)
   - [Network Manipulation Suite](https://github.com/Muneer44/Network-Manipulation-Suite)
