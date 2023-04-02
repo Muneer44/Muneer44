@@ -21,11 +21,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Muneer44 | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" />][linkedin]
-[<img align="left" alt="Muneer44 | Twitter" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg" />][twitter]
 [<img align="left" alt="Muneer44 | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" />][instagram]
 [<img align="left" alt="Muneer44 | Instagram" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" />][Gmail]
 
-[twitter]: https://twitter.com/muneer__44
-[instagram]: https://www.instagram.com/
+
+[instagram]: https://www.instagram.com/muneer_.44
 [linkedin]: https://linkedin.com/in/Muneer44
 [Gmail]: https://mail.google.com/mail/u/0/?fs=1&to=m.munr44@gmail.com&tf=cm
