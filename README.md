@@ -11,6 +11,7 @@
 <h2>🧪 Virtual Machine Labs:</h2>
 
 - [Active Directory Home Lab](https://github.com/Muneer44/Active-Directory-Home-Lab)
+- [Security Onion Traffic Analysis](https://github.com/Muneer44/Security-Onion-Traffic-Analysis)
 
 
 <h2>📰 Certificatons:</h2>
@@ -20,9 +21,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Muneer44 | LinkedIn" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" />][linkedin]
-[<img align="left" alt="Muneer44 | Instagram" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" />][instagram]
-[<img align="left" alt="Muneer44 | Instagram" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" />][Gmail]
+[<img align="left" alt="Muneer44 | LinkedIn" width="22px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />][linkedin]
+[<img align="left" alt="Muneer44 | Instagram" width="22px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />][instagram]
+[<img align="left" alt="Muneer44 | Gmail" width="24px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" />][Gmail]
 
 
 [instagram]: https://www.instagram.com/muneer_.44
