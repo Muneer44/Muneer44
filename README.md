@@ -6,7 +6,7 @@
   - [Remote System-Hijack](https://github.com/Muneer44/Remote-System-Hijack)
   - [Keylogger with email functionality](https://github.com/Muneer44/Python-Keylogger)
   - [Network Manipulation Suite](https://github.com/Muneer44/Network-Manipulation-Suite)
-  - [CryptXOR - data Encryptor-Decryptor](https://github.com/Muneer44/CryptXOR)
+  - [CryptXOR - Data Encryptor-Decryptor](https://github.com/Muneer44/CryptXOR)
   
 <h2>🧪 Virtual Machine Labs:</h2>
 
