@@ -2,17 +2,17 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-  - [File Integrity Monitor [FIM]](https://github.com/Muneer44/File-Integrity-Monitor)
+  - [File Integrity Monitor [FIM]](https://github.com/Muneer44/File-Integrity-Monitor) 
   - [Remote System-Hijack](https://github.com/Muneer44/Remote-System-Hijack)
   - [Keylogger with email functionality](https://github.com/Muneer44/Python-Keylogger)
   - [Network Manipulation Suite](https://github.com/Muneer44/Network-Manipulation-Suite)
   - [CryptXOR - Data Encryptor-Decryptor](https://github.com/Muneer44/CryptXOR)
   
-<h2>🧪 Virtual Machine Labs:</h2>
+<h2>🧪 Home Labs:</h2>
 
-- [Active Directory Home Lab](https://github.com/Muneer44/Active-Directory-Home-Lab)
-- [Security Onion Traffic Analysis](https://github.com/Muneer44/Security-Onion-Traffic-Analysis)
-
+- [Active Directory Home Lab](https://github.com/Muneer44/Active-Directory-Home-Lab) - Deployed ADDS, and created 900+ users using a PowerShell Script, to simulate an enterprise network.
+- [Security Onion Traffic Analysis](https://github.com/Muneer44/Security-Onion-Traffic-Analysis) - Security Onion: Deployment, Threat detection and Analysis 
+- [CPT-NetSec](https://github.com/Muneer44/CPT-NetSec) - Simulating Advance Network Configurations and Security Controls using **Cisco Packet Tracer** 
 
 <h2>📰 Certificatons:</h2>
 
