@@ -12,7 +12,8 @@
 
 - [Active Directory Home Lab](https://github.com/Muneer44/Active-Directory-Home-Lab) - Deployed ADDS, and created 900+ users using a PowerShell Script, to simulate an enterprise network.
 - [Security Onion Traffic Analysis](https://github.com/Muneer44/Security-Onion-Traffic-Analysis) - Security Onion: Deployment, Threat detection and Analysis 
-- [CPT-NetSec](https://github.com/Muneer44/CPT-NetSec) - Simulating Advance Network Configurations and Security Controls using **Cisco Packet Tracer** 
+- [CPT-NetSec](https://github.com/Muneer44/CPT-NetSec) - Simulating Advance Network Configurations and Security Controls using **Cisco Packet Tracer**
+- [CloudHoneynet](https://github.com/Muneer44/CloudHoneynet) - Deployed an **Azure Honeynet** to analyze live malicious network traffic and Implement incident response strategies.
 
 <h2>📰 Certificatons:</h2>
 
