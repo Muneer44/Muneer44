@@ -17,7 +17,9 @@
 
 <h2>📰 Certificatons:</h2>
 
+  - [Security Blue Team: BTL1](https://www.credly.com/badges/10aa1b27-51f7-473b-83e6-84a09603c8a9)
   - [CompTIA Security+](https://www.credly.com/badges/ca39a87d-e254-40ac-8058-d2efea0ae7e9)
+  - [ISC2 Certified in Cybersecurity](https://www.linkedin.com/posts/muneer44_cybersecurity-isc2-certification-activity-7126191292602023936-8AFv?utm_source=share&utm_medium=member_desktop)
 
 
 <h2> 🤳 Connect with me:</h2>
