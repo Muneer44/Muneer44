@@ -25,10 +25,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Muneer44 | LinkedIn" width="22px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />][linkedin]
-[<img align="left" alt="Muneer44 | Instagram" width="22px" src="https://www.svgrepo.com/show/452229/instagram-1.svg" />][instagram]
 [<img align="left" alt="Muneer44 | Gmail" width="24px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" />][Gmail]
 
 
-[instagram]: https://www.instagram.com/muneer_.44
 [linkedin]: https://linkedin.com/in/Muneer44
 [Gmail]: https://mail.google.com/mail/u/0/?fs=1&to=m.munr44@gmail.com&tf=cm
