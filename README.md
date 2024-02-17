@@ -2,18 +2,18 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-  - [File Integrity Monitor [FIM]](https://github.com/Muneer44/File-Integrity-Monitor) 
-  - [Remote System-Hijack](https://github.com/Muneer44/Remote-System-Hijack)
   - [Keylogger with email functionality](https://github.com/Muneer44/Python-Keylogger)
+  - [Remote System-Hijack](https://github.com/Muneer44/Remote-System-Hijack)
   - [Network Manipulation Suite](https://github.com/Muneer44/Network-Manipulation-Suite)
   - [CryptXOR - Data Encryptor-Decryptor](https://github.com/Muneer44/CryptXOR)
+  - [File Integrity Monitor [FIM] 🌟](https://github.com/Muneer44/File-Integrity-Monitor) 
   
-<h2>🧪 Home Labs:</h2>
+<h2>🧪 Home-Labs:</h2>
 
 - [Active Directory Home Lab](https://github.com/Muneer44/Active-Directory-Home-Lab) - Deployed ADDS, and created 900+ users using a PowerShell Script, to simulate an enterprise network.
 - [Security Onion Traffic Analysis](https://github.com/Muneer44/Security-Onion-Traffic-Analysis) - Security Onion: Deployment, Threat detection and Analysis 
-- [CPT-NetSec](https://github.com/Muneer44/CPT-NetSec) - Simulating Advance Network Configurations and Security Controls using **Cisco Packet Tracer**
-- [CloudHoneynet](https://github.com/Muneer44/CloudHoneynet) - Deployed an **Azure Honeynet** to analyze live malicious network traffic and Implement incident response strategies.
+- [CPT-NetSec ⭐](https://github.com/Muneer44/CPT-NetSec) - Simulating Advance Network Configurations and Security Controls using **Cisco Packet Tracer**
+- [CloudHoneynet 🌟](https://github.com/Muneer44/CloudHoneynet) - Deployed an **Azure Honeynet** to analyze live malicious network traffic and Implement incident response strategies.
 
 <h2>📰 Certificatons:</h2>
 
@@ -21,6 +21,10 @@
   - [CompTIA Security+](https://www.credly.com/badges/ca39a87d-e254-40ac-8058-d2efea0ae7e9)
   - [ISC2 Certified in Cybersecurity](https://www.linkedin.com/posts/muneer44_cybersecurity-isc2-certification-activity-7126191292602023936-8AFv?utm_source=share&utm_medium=member_desktop)
 
+<h2>💼 Volunteer Experience:</h2>
+
+  - [Mastercard - Cybersecurity Awareness Coordinator ](https://www.linkedin.com/in/muneer44/overlay/1635546428000/single-media-viewer/?profileId=ACoAADqDRkEB8z0fNQl3dwowevEpyU4rdG7oZgA)
+  - [PwC - Cybersecurity Analyst](https://www.linkedin.com/in/muneer44/overlay/1635552437299/single-media-viewer/?profileId=ACoAADqDRkEB8z0fNQl3dwowevEpyU4rdG7oZgA)
 
 <h2> 🤳 Connect with me:</h2>
 
