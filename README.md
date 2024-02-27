@@ -21,6 +21,7 @@
   - [Security Blue Team: BTL1](https://www.credly.com/badges/10aa1b27-51f7-473b-83e6-84a09603c8a9)
   - [CompTIA Security+](https://www.credly.com/badges/ca39a87d-e254-40ac-8058-d2efea0ae7e9)
   - [ISC2 Certified in Cybersecurity](https://www.linkedin.com/posts/muneer44_cybersecurity-isc2-certification-activity-7126191292602023936-8AFv?utm_source=share&utm_medium=member_desktop)
+  - [Qualys - Vulnerability Management Detection & Response](https://github.com/Muneer44/Muneer44/assets/117259069/d78a965a-2e3b-48c3-a6be-c9986cd719c9)
 
 <h2>💼 Volunteer Experience:</h2>
 
