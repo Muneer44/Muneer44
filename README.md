@@ -24,9 +24,10 @@
   - [Qualys - Vulnerability Management Detection & Response](https://github.com/Muneer44/Muneer44/assets/117259069/d78a965a-2e3b-48c3-a6be-c9986cd719c9)
 
 <h2>💼 Volunteer Experience:</h2>
-
-  - [Mastercard - Cybersecurity Awareness Coordinator ](https://www.linkedin.com/in/muneer44/overlay/1635546428000/single-media-viewer/?profileId=ACoAADqDRkEB8z0fNQl3dwowevEpyU4rdG7oZgA)
-  - [PwC - Cybersecurity Analyst](https://www.linkedin.com/in/muneer44/overlay/1635552437299/single-media-viewer/?profileId=ACoAADqDRkEB8z0fNQl3dwowevEpyU4rdG7oZgA)
+  
+  - [TCS - Identity and Access Management Architect](https://github.com/Muneer44/Muneer44/assets/117259069/32a52cf6-5da3-411b-bbb5-f79da26840cc)
+  - [PwC - Cybersecurity Analyst](https://github.com/Muneer44/Muneer44/assets/117259069/a9aa0d53-3e68-4104-be3e-93a096f3a914)
+  - [Mastercard - Cybersecurity Awareness Coordinator ](https://github.com/Muneer44/Muneer44/assets/117259069/1035f2de-7517-4da4-8a67-4e56fd69b4a9)
 
 <h2> 🤳 Connect with me:</h2>
 
