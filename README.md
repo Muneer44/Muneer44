@@ -1,4 +1,7 @@
-# Hello, I'm Mohammed Muneer! 
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Muneer44/Muneer44/assets/117259069/aeed46a9-73d3-439a-b98d-ce2a6901b346)
+
+
+# ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Hello, I'm Mohammed Muneer! 
 
 A dedicated cybersecurity professional with over 2 years of diverse experience. I help companies enhance their security posture by leveraging advanced security tools and techniques.
 
@@ -19,6 +22,7 @@ A dedicated cybersecurity professional with over 2 years of diverse experience. 
 - [Active Directory Home Lab](https://github.com/Muneer44/Active-Directory-Home-Lab) - Deployed ADDS, and created 900+ users using a PowerShell Script, to simulate an enterprise network.
 - [Security Onion Traffic Analysis](https://github.com/Muneer44/Security-Onion-Traffic-Analysis) - Security Onion: Deployment, Threat detection and Analysis 
 - [CPT-NetSec](https://github.com/Muneer44/CPT-NetSec) - Advanced Network Configurations and Security Controls
+
   
 <h2>👨‍💻 PYTHON PROJECTS</h2>
 
@@ -27,12 +31,23 @@ A dedicated cybersecurity professional with over 2 years of diverse experience. 
   - [Remote System-Hijack](https://github.com/Muneer44/Remote-System-Hijack)
   - [Network Manipulation Suite](https://github.com/Muneer44/Network-Manipulation-Suite)
   - [CryptXOR - Data Encryptor-Decryptor](https://github.com/Muneer44/CryptXOR)
+
+    
   
 <h2>✍ MEDIUM WRITEUPS</h2>
 
 - [Unveiling a Malware](https://medium.com/@m.munr44/unveiling-malware-a-journey-from-analysis-to-detection-a589f4700dfa) : A journey from Malware Analysis to Detection
 
   
+
+<h2>💼 VOLUNTEER EXPERIENCE</h2>
+  
+  - [TCS - Identity and Access Management Architect](https://github.com/Muneer44/Muneer44/assets/117259069/32a52cf6-5da3-411b-bbb5-f79da26840cc)
+  - [PwC - Cybersecurity Analyst](https://github.com/Muneer44/Muneer44/assets/117259069/a9aa0d53-3e68-4104-be3e-93a096f3a914)
+  - [Mastercard - Cybersecurity Awareness Coordinator ](https://github.com/Muneer44/Muneer44/assets/117259069/1035f2de-7517-4da4-8a67-4e56fd69b4a9)
+
+    
+
 <h2>📰 CERTIFICATIONS</h2>
 
 <a href="https://learn.microsoft.com/en-us/users/mohammedmuneer-4021/credentials/7f4fd672e12f287b?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://img.shields.io/badge/Microsoft%20AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
@@ -43,11 +58,6 @@ A dedicated cybersecurity professional with over 2 years of diverse experience. 
 <a href="https://github.com/Muneer44/Muneer44/assets/117259069/d78a965a-2e3b-48c3-a6be-c9986cd719c9"><img src="https://img.shields.io/badge/Qualys%20VMDR-DA1E28?style=for-the-badge&logo=qualys&logoColor=white" /></a>
 <a href="https://verify.skilljar.com/c/br7sfusdj393"><img src="https://img.shields.io/badge/Sumo%20Logic%20Certified-0078D4?style=for-the-badge&logo=sumologic&logoColor=white" /></a>
 
-<h2>💼 VOLUNTEER EXPERIENCE</h2>
-  
-  - [TCS - Identity and Access Management Architect](https://github.com/Muneer44/Muneer44/assets/117259069/32a52cf6-5da3-411b-bbb5-f79da26840cc)
-  - [PwC - Cybersecurity Analyst](https://github.com/Muneer44/Muneer44/assets/117259069/a9aa0d53-3e68-4104-be3e-93a096f3a914)
-  - [Mastercard - Cybersecurity Awareness Coordinator ](https://github.com/Muneer44/Muneer44/assets/117259069/1035f2de-7517-4da4-8a67-4e56fd69b4a9)
 
 <h2> 🤳 CONNECT WITH ME</h2>
 
