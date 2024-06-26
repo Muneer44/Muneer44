@@ -4,12 +4,13 @@ A dedicated cybersecurity professional with over 2 years of diverse experience. 
 
 <a href="https://www.linkedin.com/in/muneer44/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@m.munr44"><img src="https://img.shields.io/badge/Medium-12100E12100E12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+---
 <h2>🌟HIGHLIGHTS</h2>
 
 [<img src="https://github.com/Muneer44/Muneer44/assets/117259069/f3e90dda-5a4d-49e9-a1e0-08379c06b06b" alt = "Malware Analysis" width="230" height="130">](https://medium.com/@m.munr44/unveiling-malware-a-journey-from-analysis-to-detection-a589f4700dfa)
 [<img src="https://github.com/Muneer44/Muneer44/assets/117259069/ff494108-a2a0-4886-830f-ac4681ed61ab" alt = "Cloud SOC" width="230" height="130">](https://github.com/Muneer44/CloudHoneynet)
 [<img src="https://github.com/Muneer44/Muneer44/assets/117259069/2dfa7bd8-ae44-4d56-86ad-47b88b627896" alt = "NetSec" width="230" height="130">](https://github.com/Muneer44/CPT-NetSec-2.0)
-[<img src="https://github.com/Muneer44/Muneer44/assets/117259069/00536326-63f9-42ef-8e3e-3c2b88aacce9" alt = "FIM" width="230" height="130">](https://github.com/Muneer44/File-Integrity-Monitor)
+
 
 <h2>🧪 HOME LABS</h2>
 
@@ -50,9 +51,6 @@ A dedicated cybersecurity professional with over 2 years of diverse experience. 
 
 <h2> 🤳 CONNECT WITH ME</h2>
 
-[<img align="left" alt="Muneer44 | LinkedIn" width="22px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />][linkedin]
-[<img align="left" alt="Muneer44 | Gmail" width="24px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" />][Gmail]
+<a href="https://www.linkedin.com/in/muneer44/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:m.munr44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-
-[linkedin]: https://linkedin.com/in/Muneer44
-[Gmail]: https://mail.google.com/mail/u/0/?fs=1&to=m.munr44@gmail.com&tf=cm
