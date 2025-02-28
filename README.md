@@ -3,7 +3,7 @@
 
 # ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  Hello, I'm Mohammed Muneer! 
 
-A dedicated cybersecurity professional with over 2 years of diverse experience. I help companies enhance their security posture by leveraging advanced security tools and techniques.
+A dedicated Cybersecurity Analyst & Content Engineer, I help companies enhance their security posture through advanced tools and techniques, while creating practical security content that simplifies complex cybersecurity concepts.
 
 <a href="https://www.linkedin.com/in/muneer44/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@m.munr44"><img src="https://img.shields.io/badge/Medium-12100E12100E12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -14,6 +14,10 @@ A dedicated cybersecurity professional with over 2 years of diverse experience. 
 [<img src="https://github.com/Muneer44/Muneer44/assets/117259069/ff494108-a2a0-4886-830f-ac4681ed61ab" alt = "Cloud SOC" width="230" height="130">](https://github.com/Muneer44/CloudHoneynet)
 [<img src="https://github.com/Muneer44/Muneer44/assets/117259069/2dfa7bd8-ae44-4d56-86ad-47b88b627896" alt = "NetSec" width="230" height="130">](https://github.com/Muneer44/CPT-NetSec-2.0)
 
+<h2> <img src="https://github.com/user-attachments/assets/7dda3c4b-8881-4005-bec5-b88fdbe3cef4" alt = "Malware Analysis" width="30" height="30"> Content Engineering</h2>
+
+[<img src="https://github.com/user-attachments/assets/55940cf9-bf8c-43b2-9919-e02bd3d847d6" alt = "Malware Analysis" width="220" height="190">](https://app.letsdefend.io/training/lessons/static-code-analysis)
+[<img src="https://github.com/user-attachments/assets/fd04936d-6eed-479d-b99d-a03df7ec902d" alt = "Malware Analysis" width="220" height="190">](https://app.letsdefend.io/training/lessons/mastering-yara-for-malware-detection)
 
 <h2>🧪 HOME LABS</h2>
 
